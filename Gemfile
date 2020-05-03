@@ -19,6 +19,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-paginate"
   gem "jekyll-admin"
+  gem "jekyll-include-cache"
   gem "support-for"
 end
 

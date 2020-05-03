@@ -282,6 +282,7 @@ DEPENDENCIES
   github-pages
   jekyll-admin
   jekyll-feed (~> 0.12)
+  jekyll-include-cache
   jekyll-paginate
   minimal-mistakes-jekyll
   support-for
