@@ -32,10 +32,10 @@ paginate: 5
 paginate_path: /post:num/
 
 # Build settings
-theme: minimal-mistakes-jekyll
+#theme: minima
 
 #enable this to remote theme after upload to github pages
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 plugins:
   - jekyll-feed
