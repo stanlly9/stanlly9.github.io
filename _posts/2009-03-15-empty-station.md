@@ -1,8 +1,10 @@
 ---
-layout: posts
+layout: post
 title: Empty Station
 author: 史蛋利九的部落格
-tags: [散文, 高密度詞藻]
+tags: 
+- 散文
+- 高密度詞藻
 ---
 火車緩緩停下之後，我走出車站。迎面而來的是一整排低矮的古老住宅，烈日下斑駁的色彩依舊和藹。彷彿像我打著招呼：「歡迎光臨。」
 <!--more-->
