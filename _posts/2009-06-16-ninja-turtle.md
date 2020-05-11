@@ -8,9 +8,7 @@ tags:
 前一陣子實驗室的zeroplus同學突然不知道吃錯什麼藥，跟我說他覺得忍者龜當年的主題曲雖然好聽旋律好記，
 但是歌詞其實很白痴....  
 先來享受一下當年的忍者龜主題曲!...  
-
-Youtube連結 
-[![Youtube連結](http://img.youtube.com/vi/bojx9BDpJks/0.jpg)](http://www.youtube.com/watch?v=bojx9BDpJks "youtube-ninja-turtles")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bojx9BDpJks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### 不曉得這樣是不是就透露年紀了阿? 我聽學長說現在很多高中生甚至大學生已經都不知道許瑞德了說，
 真的是.....人心不古阿!!  
