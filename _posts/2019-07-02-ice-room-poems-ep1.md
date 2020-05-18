@@ -10,7 +10,7 @@ tags:
 ---
 
 <span style="font-size: large;
-background: -webkit-linear-gradient(45deg, #00ff8a, #60da1b, #790909);
+background: -webkit-linear-gradient(45deg, #000046, #1cb5e0);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;">
 給文字一點時間  

@@ -9,7 +9,7 @@ tags:
 ---
 
 <span style="font-size: large;
-background: -webkit-linear-gradient(45deg, #ff8a00, #da1b60, #090979);
+background: -webkit-linear-gradient(45deg, #f390f4, #3b4371);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;">
 不管傳遞再寶貴的真諦，如果聆聽的人不是由衷相信，有時熱情也會冷卻。

@@ -9,9 +9,10 @@ tags:
 - 小說
 ---
 <span style="font-size: large;
-background: -webkit-linear-gradient(45deg, #009f4a, #30aa1b, #590909);
+background: -webkit-linear-gradient(0deg, #009f4a, #30aa1b, #590909);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;">
 只有賭上自己的人，才被稱作英雄。  
-妥協也沒關係，受挫也無妨，大聲哭泣便是。勝者常在敗者中出現。
+妥協也沒關係，受挫也無妨，大聲哭泣便是。  
+勝者常在敗者中出現。
 </span>
